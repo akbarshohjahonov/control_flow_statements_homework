@@ -12,7 +12,6 @@ Automated grading of homework assignments and tests
 
   If the number is positive, increase it to 1, else leave unchanged.
 
-
 **Example 1:**
 
 ```Python
