@@ -10,7 +10,8 @@ Automated grading of homework assignments and tests
 # Problems
 ## if01
 
-  Given three integers a, b, c,  check the following statement "The number b is between a and c".
+  If the number is positive, increase it to 1, else leave unchanged.
+
 
 **Example 1:**
 
